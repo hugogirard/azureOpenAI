@@ -1,0 +1,2 @@
+# azureOpenAI
+Azure OpenAI Demo
